@@ -1,0 +1,6 @@
+www.google.com
+www.twitter.com
+www.alura.com.br
+8.8.8.8
+www.pudim.com.br
+4.4.4.4

@@ -5,7 +5,7 @@ s = socket.socket(socket.AF_INET,socket.SOCK_DGRAM, 0) #udp protocolo de datagra
 print('Cliente Socket Criado com sucesso.')
 
 host = 'localhost'
-porta = 5433
+porta = 5432
 mensagem = 'Olá servidor, belê?'
 
 try:
